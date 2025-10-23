@@ -59,11 +59,7 @@ sudo mongorestore --db=genieacs --drop genieacs-backup/genieacs
 🤝 Kontribusi
 Kontribusi selalu diterima! Silakan buat pull request atau laporkan issue jika menemukan bug.
 
-https://wa.me/6281947215703
-
-atau link group telegram
-
-https://t.me/alijayaNetAcs
+https://wa.me/6281368888498
 
 SILAHKAN YANG INGIN BERBAGI UANG KOPI <br>
 https://paypal.me/warnetalijayaID
