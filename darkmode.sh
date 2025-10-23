@@ -4,11 +4,11 @@ NC='\033[0m'
 local_ip=$(hostname -I | awk '{print $1}')
 echo -e "${GREEN}============================================================================${NC}"
 echo -e "${GREEN}============================================================================${NC}"
-echo -e "${GREEN}=========== AAA   LL      IIIII     JJJ   AAA   YY   YY   AAA ==============${NC}"   
-echo -e "${GREEN}========== AAAAA  LL       III      JJJ  AAAAA  YY   YY  AAAAA =============${NC}" 
-echo -e "${GREEN}========= AA   AA LL       III      JJJ AA   AA  YYYYY  AA   AA ============${NC}"
-echo -e "${GREEN}========= AAAAAAA LL       III  JJ  JJJ AAAAAAA   YYY   AAAAAAA ============${NC}"
-echo -e "${GREEN}========= AA   AA LLLLLLL IIIII  JJJJJ  AA   AA   YYY   AA   AA ============${NC}"
+echo -e "${GREEN}========= EEEEE  NN   NN  OOOOO   SSSSS ====================================${NC}"   
+echo -e "${GREEN}========= EE     NNN  NN  OO OO  SS     ====================================${NC}" 
+echo -e "${GREEN}========= EEEEE  NN N NN  OO OO  SSSSSS ====================================${NC}"
+echo -e "${GREEN}========= EE     NN  NNN  OO OO      SS ====================================${NC}"
+echo -e "${GREEN}========= EEEEE  NN   NN  OOOOO  SSSSS  ====================================${NC}"
 echo -e "${GREEN}============================================================================${NC}"
 echo -e "${GREEN}========================= . Info 081-947-215-703 ===========================${NC}"
 echo -e "${GREEN}============================================================================${NC}"
@@ -183,7 +183,7 @@ fi
 #Sukses
 echo -e "${GREEN}============================================================================${NC}"
 echo -e "${GREEN}========== GenieACS UI akses port 3000. : http://$local_ip:3000 ============${NC}"
-echo -e "${GREEN}=================== Informasi: Whatsapp 081947215703 =======================${NC}"
+echo -e "${GREEN}=================== Informasi: Whatsapp 081968888498 =======================${NC}"
 echo -e "${GREEN}============================================================================${NC}"
 cp -r genieacs /usr/lib/node_modules/
 echo -e "${GREEN}Sekarang install parameter. Apakah anda ingin melanjutkan? (y/n)${NC}"
