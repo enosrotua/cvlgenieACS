@@ -62,6 +62,6 @@ Kontribusi selalu diterima! Silakan buat pull request atau laporkan issue jika m
 https://wa.me/6281368888498
 
 SILAHKAN YANG INGIN BERBAGI UANG KOPI <br>
-https://paypal.me/warnetalijayaID
 
-![Image](https://github.com/user-attachments/assets/724e5ac2-626e-4f2d-bd1f-1265b70b544f)
+![bronze](https://github.com/user-attachments/assets/767dd983-3a61-4430-b2e1-091543ff2476)
+
