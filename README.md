@@ -1,8 +1,8 @@
 ## Tampilan
-<img width="1358" height="650" alt="Image" src="https://github.com/user-attachments/assets/d2689a26-9eed-4449-a0d3-2edffddd7bc6" />
-<img width="1358" height="650" alt="Image" src="https://github.com/user-attachments/assets/c13ed312-d007-4cc2-987d-e82f171dd7ce" />
-<img width="1358" height="650" alt="Image" src="https://github.com/user-attachments/assets/fdf7acae-cd32-404d-a50e-d77b59156ea5" />
-<img width="1358" height="650" alt="Image" src="https://github.com/user-attachments/assets/2d530df8-beb3-493e-ad04-8bafbc39ad3f" />
+<img width="1916" height="910" alt="Screenshot_145" src="https://github.com/user-attachments/assets/64e12ee5-936b-4081-ad27-0f64b1f7cdc8" />
+<img width="1919" height="897" alt="Screenshot_147" src="https://github.com/user-attachments/assets/11502130-a8aa-42ea-bf22-2656c69f49da" />
+<img width="1919" height="911" alt="Screenshot_146" src="https://github.com/user-attachments/assets/77db8d23-2b91-46d7-9b42-1d8a45be51f1" />
+
 # INSTALL GENIEACS OTOMATIS
 This is autoinstall GenieACS 
 
