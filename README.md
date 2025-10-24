@@ -6,8 +6,8 @@ Repository ini berisi script otomatis untuk instalasi GenieACS dengan dua piliha
 
 ## Tampilan
 
-<img width="1358" height="650" alt="Dark Mode Theme" src="https://github.com/user-attachments/assets/d2689a26-9eed-4449-a0d3-2edffddd7bc6" />
-<img width="1358" height="650" alt="Original Theme" src="https://github.com/user-attachments/assets/c13ed312-d007-4cc2-987d-e82f171dd7ce" />
+<img width="1919" height="897" alt="Screenshot_147" src="https://github.com/user-attachments/assets/bf520421-a66d-48bb-b8e1-0704ee2778f8" />
+<img width="1916" height="910" alt="Screenshot_145" src="https://github.com/user-attachments/assets/e05454d4-6776-454c-b220-27c2c94d1329" />
 
 ## Fitur
 
@@ -185,14 +185,14 @@ Kontribusi selalu diterima! Silakan buat pull request atau laporkan issue jika m
 
 ## Kontak & Support
 
-- **WhatsApp**: [081947215703](https://wa.me/6281947215703)
-- **Telegram**: [@alijayaNetAcs](https://t.me/alijayaNetAcs)
+- **WhatsApp**: [081947215703](https://wa.me/6281368888498)
+
 
 ## Donasi
 
 Jika script ini membantu Anda, silakan berikan donasi untuk pengembangan lebih lanjut:
 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/warnetalijayaID)
+![bronze](https://github.com/user-attachments/assets/49395502-a0cc-4e34-a452-cd2da88d60ae)
 
 ## Lisensi
 
