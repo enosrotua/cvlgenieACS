@@ -69,15 +69,32 @@ bash install.sh
 
 ## Script Tambahan
 
-### Backup Konfigurasi
+### 🎨 **Theme & Logo Management**
 ```bash
-bash backup.sh
+# Ganti logo
+bash change-logo.sh
+
+# Ganti tema/background color
+bash change-theme.sh
+
+# Management suite lengkap
+bash genieacs-manager.sh
 ```
 
-### Restore Konfigurasi
+### 💾 **Backup & Restore**
 ```bash
+# Backup konfigurasi
+bash backup.sh
+
+# Restore konfigurasi
 cd genieacs-backup-TIMESTAMP
 ./restore.sh
+```
+
+### 🧪 **Testing & Monitoring**
+```bash
+# Test instalasi lengkap
+bash test-installation.sh
 ```
 
 ## Konfigurasi
@@ -100,19 +117,25 @@ cd genieacs-backup-TIMESTAMP
 
 ```
 cvlgenieACS/
-├── darkmode.sh          # Script instalasi Dark Mode
-├── install.sh           # Script instalasi Original
-├── backup.sh            # Script backup konfigurasi
-├── db/                  # Database backup
+├── darkmode.sh              # Script instalasi Dark Mode
+├── install.sh               # Script instalasi Original
+├── genieacs-manager.sh      # Management suite lengkap
+├── change-logo.sh           # Script ganti logo
+├── change-theme.sh          # Script ganti tema
+├── backup.sh                # Script backup konfigurasi
+├── test-installation.sh     # Script testing lengkap
+├── db/                      # Database backup
 │   ├── config.bson
 │   ├── devices.bson
 │   ├── presets.bson
 │   ├── provisions.bson
 │   └── virtualParameters.bson
-├── config/              # Konfigurasi GenieACS
-├── app-LU66VFYW.css     # Dark Mode CSS
-├── logo.svg             # Logo custom
-└── README.md            # Dokumentasi ini
+├── config/                  # Konfigurasi GenieACS
+├── app-LU66VFYW.css         # Dark Mode CSS
+├── logo.svg                 # Logo custom
+├── LOGO-GUIDE.md            # Panduan logo
+├── THEME-GUIDE.md           # Panduan tema
+└── README.md                # Dokumentasi ini
 ```
 
 ## Troubleshooting
@@ -176,6 +199,16 @@ Jika script ini membantu Anda, silakan berikan donasi untuk pengembangan lebih l
 Script ini bebas digunakan untuk keperluan komersial dan non-komersial.
 
 ## Changelog
+
+### v2.1.0 (2025-10-24)
+- ✅ **NEW**: Script change-logo.sh untuk ganti logo mudah
+- ✅ **NEW**: Script change-theme.sh untuk ganti tema/background
+- ✅ **NEW**: Script genieacs-manager.sh (management suite lengkap)
+- ✅ **NEW**: LOGO-GUIDE.md dan THEME-GUIDE.md
+- ✅ **NEW**: Support Dark Theme seperti di foto
+- ✅ **NEW**: Custom color themes (Blue, Green, Red, Purple, Gray)
+- ✅ **NEW**: Interactive menu untuk semua operasi
+- ✅ **NEW**: Automatic backup sebelum perubahan
 
 ### v2.0.0 (2025-10-24)
 - ✅ Perbaikan script darkmode.sh untuk instalasi lengkap
