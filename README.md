@@ -185,7 +185,7 @@ Kontribusi selalu diterima! Silakan buat pull request atau laporkan issue jika m
 
 ## Kontak & Support
 
-- **WhatsApp**: [081947215703](https://wa.me/6281368888498)
+- **WhatsApp**: [081368888498](https://wa.me/6281368888498)
 
 
 ## Donasi
