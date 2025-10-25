@@ -45,7 +45,7 @@ Repository ini berisi script otomatis untuk instalasi GenieACS dengan dua piliha
 ### 1. Clone Repository
 ```bash
 apt install git curl -y
-git clone https://github.com/enosrotua/cvlgenieACS
+git clone https://github.com/enosrotua/cvlgenieACS.git
 cd cvlgenieACS
 chmod +x *.sh
 ```
